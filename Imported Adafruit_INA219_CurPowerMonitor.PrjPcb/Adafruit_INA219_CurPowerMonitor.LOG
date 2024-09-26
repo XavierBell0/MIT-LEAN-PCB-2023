@@ -1,0 +1,18 @@
+Importer Log Report
+Project : Adafruit_INA219_CurPowerMonitor.PrjPcb
+
+Section : Analyze Document - C:\Projects\LEAN\Adafruit_INA219_CurPowerMonitor.sch
+    Analyzing data of C:\Projects\LEAN\Adafruit_INA219_CurPowerMonitor.sch
+    Load settings
+    Load layers 121
+    Load schematic
+    Load Libraries 1
+    Load Library "microbuilder"
+    Load Packages 27
+    Load Symbols 11
+    Load DeviceSets 11
+    Load Attributes 0
+    Load Classes 1
+    Load Parts 29
+    Load Sheets 1
+EndSection
